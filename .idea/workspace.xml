@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af669ab4-2c43-42e0-9a2d-b956f8e4a315" name="Changes" comment="Creacion Proyecto">
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="af669ab4-2c43-42e0-9a2d-b956f8e4a315" name="Changes" comment="Creacion Proyecto" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +72,7 @@
       <workItem from="1698752526883" duration="2735000" />
       <workItem from="1698755741661" duration="17000" />
       <workItem from="1699355145844" duration="825000" />
-      <workItem from="1699356241478" duration="243000" />
+      <workItem from="1699356241478" duration="871000" />
     </task>
     <task id="LOCAL-00001" summary="Creacion Proyecto">
       <option name="closed" value="true" />
@@ -133,7 +130,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699355168361</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Creacion Proyecto">
+      <option name="closed" value="true" />
+      <created>1699356496717</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1699356496717</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
